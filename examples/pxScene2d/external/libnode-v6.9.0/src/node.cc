@@ -1,4 +1,3 @@
-kannan
 #include "node.h"
 #include "node_buffer.h"
 #include "node_constants.h"
