@@ -1,3 +1,4 @@
+
 // pxCore Copyright 2007-2015 John Robinson
 // main.cpp
 
@@ -269,7 +270,7 @@ int pxMain(int argc, char* argv[])
   bool isDebugging = false;
   bool breakOnStartUp = false;
   string debugString("");
-
+  int a = 0;
   char const* s = getenv("BREAK_ON_SCRIPTSTART");
   if (s && (strcmp(s,"1")  == 0))
     breakOnStartUp = true;
