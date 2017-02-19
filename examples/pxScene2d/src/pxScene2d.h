@@ -5,7 +5,6 @@
 #define PX_SCENE2D_H
 
 #include <stdio.h>
-#include <test.h>
 #include <vector>
 #include <list>
 using namespace std;
